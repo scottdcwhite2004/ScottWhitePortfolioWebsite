@@ -27,7 +27,7 @@
   background-color: #04AA6D;
 }
 
-profilePicture
+.profilePicture
 {
   width: 150px;
   height: 150px;
@@ -35,7 +35,7 @@ profilePicture
   overflow: hidden;
 }
 
-profilePicture img{
+.profilePicture img{
   width: 100%;
   height: 100%;
   object-fit: cover;
